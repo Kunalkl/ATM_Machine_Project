@@ -1,4 +1,4 @@
 # ATM_Machine_Project
 ATM Machine using core java
 <br>
-Author - Kunal Jadhav
+Author - Kunal Dhanaji Jadhav
